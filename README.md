@@ -1,0 +1,1 @@
+# SimpleAuthrizationAspNetCoreWebApi_ApiKey
