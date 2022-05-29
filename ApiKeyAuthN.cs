@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace WebApplication1
+namespace SimpleAuthrizationAspNetCoreWebApi_ApiKey
 {
     public class ApiKeyAuthNOptions : AuthenticationSchemeOptions
     {

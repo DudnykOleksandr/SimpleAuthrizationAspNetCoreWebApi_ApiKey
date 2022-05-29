@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using SimpleAuthrizationAspNetCoreWebApi_ApiKey;
 
 namespace WebApplication1
 {
